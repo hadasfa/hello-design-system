@@ -1,0 +1,37 @@
+:root {
+
+    /**COLORS**/
+
+    /**primitives**/
+    --white: #ffffff;
+    --black: #000000;
+    --light-gray: #ffffff;
+    --gray: #666666;
+    --dark-gray: #666666;
+    --yellow: #ffffff;
+    --light-red: #ffffff;
+    --dark-red: #000000;
+    --light-green: #ffffff;
+    --dark-green: #000000;
+
+    /**semantic**/
+    --text-primary: var(--black);
+    --text-secondary: var(--dark-gray);
+    --text-inverted: var(--white);
+    --brand-primary: var(--black);
+    --brand-secondary: var(--gray);
+    --surface-natural: var(--white);
+    --surface-success: var(--light-green);
+    --surface-danger: var(--dark-red);
+    --border: var(--light-gray);
+    --danger: var(--dark-red);
+    --success: var(--dark-green);
+    --rank: var(--yellow);
+    --disabled: var(--gray);
+
+    // SPACING
+    --spacing-unit: 0.25rem // = 4px
+
+    // TYPOGRAPHY
+    // add here tokens for fonts size, weight and more...
+}

@@ -1,0 +1,29 @@
+.typography {
+  color: var(--text-primary);
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.typography--h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.typography--h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.typography--h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.typography--body {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.typography--caption {
+  font-size: 0.875rem;
+  font-weight: 400;
+}
